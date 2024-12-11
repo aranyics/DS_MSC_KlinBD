@@ -1,0 +1,25 @@
+numpy
+pyarrow
+pandas
+matplotlib
+scikit-learn>=0.24.1 #1.4.1
+seedir
+xgboost
+lightgbm
+dask[dataframe]
+networkx
+sweetviz
+requests
+tabulate
+future
+#h2o get from h2o.ai
+joblib
+torch
+deap
+update_checker
+tqdm
+stopit
+tpot>=0.12.2
+optuna
+plotly
+nbformat
